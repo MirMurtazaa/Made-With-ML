@@ -1,2 +1,2 @@
 # Made-With-ML
-MLOps coourse - learning
+MLOps course - learning
